@@ -1,0 +1,10 @@
+2023-05-19 14:35:41,149 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志
+2023-05-19 14:35:42,149 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志
+2023-05-19 14:35:43,150 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志
+2023-05-19 14:35:44,152 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志
+2023-05-19 14:35:45,152 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志
+2023-05-19 14:35:46,153 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志
+2023-05-19 14:35:47,153 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志
+2023-05-19 14:35:48,155 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志
+2023-05-19 14:35:49,162 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志
+2023-05-19 14:35:50,163 INFO [logging_code.py(<module>:64)] - 我是一个信息级别的日志

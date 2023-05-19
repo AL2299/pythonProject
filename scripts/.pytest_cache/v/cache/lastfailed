@@ -1,0 +1,5 @@
+{
+  "test_ihrm_login_params.py::TestIhrmLoginParams::test_login_0__": true,
+  "test_ihrm_login_params.py::TestIhrmLoginParams::test_login_1__": true,
+  "test_ihrm_login_params.py::TestIhrmLoginParams::test_login_2__": true
+}

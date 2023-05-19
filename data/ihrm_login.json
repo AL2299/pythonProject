@@ -1,0 +1,76 @@
+[
+  {
+    "desc": "登录成功",
+    "req_data": {
+      "mobile": "13800000002",
+      "password": "123456"
+    },
+    "stauts_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  {
+    "desc": "手机号为空",
+    "req_data": {
+      "mobile": null,
+      "password": "123456"
+    },
+    "stauts_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "密码错误",
+    "req_data": {
+      "mobile": "13800000002",
+      "password": "123456789"
+    },
+    "stauts_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "多参",
+    "req_data": {
+      "mobile": "13800000002",
+      "password": "123456",
+      "abc": "123"
+    },
+    "stauts_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  {
+    "desc": "少参",
+    "req_data": {
+      "password": "123456"
+    },
+    "stauts_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "desc": "无参",
+    "req_data": null,
+    "stauts_code": 200,
+    "success": false,
+    "code": 99999,
+    "message": "抱歉，系统繁忙，请稍后重试！"
+  },
+  {
+    "desc": "错误参数",
+    "req_data": {
+      "abc": "13800000002",
+      "password": "123456"
+    },
+    "stauts_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  }
+]

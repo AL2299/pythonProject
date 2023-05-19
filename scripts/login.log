@@ -1,0 +1,63 @@
+2023-05-19 14:20:34,656 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:20:34,884 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:20:34,889 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp={'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'b8ba4017-a99c-41f4-90ac-bd8407b734db'}
+2023-05-19 14:20:34,900 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:20:35,104 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:20:35,111 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2023-05-19 14:20:35,115 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:20:35,390 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:20:35,394 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2023-05-19 14:20:35,407 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:20:35,594 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:20:35,599 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp={'success': True, 'code': 10000, 'message': '操作成功！', 'data': '75f86ab1-23c9-41cb-896e-c2c1658113c8'}
+2023-05-19 14:20:35,610 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:20:35,924 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:20:35,927 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2023-05-19 14:20:35,933 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:20:36,213 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:20:36,218 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp={'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2023-05-19 14:20:36,229 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:20:36,416 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:20:36,420 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp={'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2023-05-19 14:22:20,880 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:22:21,070 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:22:21,077 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:22:21,089 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:22:21,286 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:22:21,292 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:22:21,296 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:22:21,474 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:22:21,477 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:22:21,485 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:22:21,694 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:22:21,695 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:22:21,700 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:22:21,885 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:22:21,889 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:22:21,896 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:22:23,012 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:22:23,016 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:22:23,027 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:22:23,218 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:22:23,222 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:23:15,415 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:23:15,648 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:23:15,653 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:23:15,657 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:23:16,008 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:23:16,011 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:23:16,016 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:23:16,362 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:23:16,367 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:23:16,381 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:23:16,670 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:23:16,674 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:23:16,687 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:23:16,887 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:23:16,891 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:23:16,900 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:23:17,079 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:23:17,082 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
+2023-05-19 14:23:17,092 DEBUG [connectionpool.py(_new_conn:208)] - Starting new HTTP connection (1): 127.0.0.1
+2023-05-19 14:23:17,299 DEBUG [connectionpool.py(_make_request:396)] - http://127.0.0.1:9999 "POST http://ihrm2-test.itheima.net/api/sys/login HTTP/1.1" 200 None
+2023-05-19 14:23:17,303 DEBUG [test_ihrm_login_params.py(test_login:38)] - resp=<Response [200]>
